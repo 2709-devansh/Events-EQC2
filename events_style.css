@@ -79,6 +79,9 @@ body {
     margin-left: 10%;
     margin-top: 10%;
   }
+  #e h1{
+    font-size: x-large;
+  }
 }
 
 @media screen and (min-width: 301px) and (max-width: 600px) {
